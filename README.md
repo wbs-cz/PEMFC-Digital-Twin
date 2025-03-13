@@ -7,3 +7,7 @@ https://data.mendeley.com/datasets/w65jjt8v5w/draft?a=5b37947d-ea28-48cd-a5f2-d8
 
 Github开源PEMFC训练数据集：
 https://github.com/lbrice1/FCSDAT
+
+FCLAB燃料电池数据集(PEMFC)：
+https://search-data.ubfc.fr/FR-18008901306731-2021-07-19_IEEE-PHM-Data-Challenge-2014.html
+
