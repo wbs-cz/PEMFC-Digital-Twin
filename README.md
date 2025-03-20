@@ -15,7 +15,8 @@ https://search-data.ubfc.fr/FR-18008901306731-2021-07-19_IEEE-PHM-Data-Challenge
 开源软件：  
 模型方法可供参考，但需要注意是否为PEMFC  
 https://github.com/ElsevierSoftwareX/SOFTX-D-24-00467.git  (PEMFC)  
-https://github.com/openFuelCell2/openFuelCell2.git  
+https://github.com/openFuelCell2/openFuelCell2.git   
+https://github.com/ECSIM/opem.git  (PEMFC)
 
 考虑机械应力：  
 https://git.rwth-aachen.de/markus.kohrn/IJHE2023-A-scalable-pemfc-model-for-coupled-mechanical-and-electrochemical-analysis.git  
