@@ -1,10 +1,12 @@
 # PEMFC-Digital-Twin
 
-上海同济大学单电池训练数据集链接：  
+上海同济大学单电池(LT-PEMFC)训练数据集链接：  
 https://data.mendeley.com/datasets/w65jjt8v5w/draft?a=5b37947d-ea28-48cd-a5f2-d8c61c8ed8b1
 
 上海同济大学数据集对应文献：  
-https://doi.org/10.1016/j.apenergy.2020.115937
+https://doi.org/10.1016/j.apenergy.2020.115937  
+https://doi.org/10.1016/j.egyai.2023.100237
+
 
 Github开源PEMFC训练数据集：  
 https://github.com/lbrice1/FCSDAT
